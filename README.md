@@ -2,7 +2,7 @@
 Hacks for tf2 made by Peleret
 
 ## Installation
-Put hacks.sh into Titanfall2/vpk/ folder
+Put hacks.sh into "Titanfall2/vpk" folder
 
 ### Usage
 Works automatically as long as file is there
